@@ -5,7 +5,7 @@ containing 1,157 baseball players including their handedness (right or left hand
 inches), weight (in pounds), batting average, and home runs.</p>
 
 **1st Story and 2nd Story:**
-https://public.tableau.com/profile/mohamed8293#!/vizhome/BaseballProjectInitial/Story2?publish=yes
+https://public.tableau.com/profile/mohamed8293#!/vizhome/BaseballProject-Initial/Story2?publish=yes
 
 ## Summary
 <p align="justify"> In this project I have used different visualization techniques to communicate insights on baseball data. I have analyzed the relationships between variables, such as: handedness, batting average, height, weight and home runs.</p>
